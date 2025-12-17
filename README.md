@@ -2,7 +2,7 @@
 
 A WiFi-Controlled Autonomous Lawnmower Built from Repurposed Hoverboard Components
 
-![Smart Lawnmower](Docs/imageTopView.jpg)
+![Smart Lawnmower](docs/imageFieldView.png)
 
 ## 1. Overview
 
@@ -49,7 +49,7 @@ This project transforms discarded or inexpensive hoverboards (typically $30-100 
 
 ### Mechanical Design
 
-![3D CAD Model](Docs/3D_LawnMower.png)
+![3D CAD Model](docs/3D_Model1.png)
 *CAD model showing component layout and mechanical assembly*
 
 The platform features:
