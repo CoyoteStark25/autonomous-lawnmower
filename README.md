@@ -2,8 +2,6 @@
 
 A WiFi-Controlled Autonomous Lawnmower Built from Repurposed Hoverboard Components
 
-## Banner Image
-
 ![Smart Lawnmower](docs/lawnmower_main.jpg)
 
 ## 1. Overview
